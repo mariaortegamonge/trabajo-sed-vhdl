@@ -4,3 +4,5 @@
 30/12/2021 subido el testbench del clock divider. Funciona correctamente.
 
 2/1/2022 subido el testbench del control del ascensor. Comprobado su funcionamiento, nos ponemos a trabajar con el control de las puertas.
+
+05/01/2022 Subido el testbench del estdo puerta y control puerta. Funcianan ambas correctamnete.
