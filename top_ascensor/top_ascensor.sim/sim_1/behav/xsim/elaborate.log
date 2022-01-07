@@ -1,0 +1,7 @@
+Vivado Simulator v2021.1.1
+Copyright 1986-1999, 2001-2021 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2021.1/bin/unwrapped/win64.o/xelab.exe -wto 65b1aff40b7e46c6b4614057aa23381c --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot tb_TOP_ASCENSOR_behav xil_defaultlib.tb_TOP_ASCENSOR -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-3290] entity port 'sensor_abrir' does not match with type std_logic_vector of component port [C:/Users/jvill/top_ascensor/top_ascensor.srcs/sim_1/new/TOP_ASCENSOR_tb.vhd:11]
+ERROR: [XSIM 43-3321] Static elaboration of top level VHDL design unit tb_top_ascensor in library work failed.

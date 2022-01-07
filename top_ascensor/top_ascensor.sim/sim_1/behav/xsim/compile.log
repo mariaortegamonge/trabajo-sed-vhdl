@@ -1,0 +1,20 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "F:/clk_divider.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'clk_divider'
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/ascensor-sed/estado_piso/estado_piso.srcs/sources_1/new/control_ascensor.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'control_ascensor'
+INFO: [VRFC 10-163] Analyzing VHDL file "F:/control_puerta.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'control_puerta'
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/ascensor-sed/estado_piso/estado_piso.srcs/sources_1/new/decodificador_piso.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'decodificador_piso'
+INFO: [VRFC 10-163] Analyzing VHDL file "F:/display.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'display'
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/ascensor-sed/estado_piso/estado_piso.srcs/sources_1/new/estado_piso.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'estado_piso'
+INFO: [VRFC 10-163] Analyzing VHDL file "F:/estado_puerta.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'estado_puerta'
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/ascensor-sed/estado_piso/estado_piso.srcs/sources_1/new/fsm_ascensor.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'fsm_ascensor'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/jvill/top_ascensor/top_ascensor.srcs/sources_1/new/top_ascensor.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TOP_ASCENSOR'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/jvill/top_ascensor/top_ascensor.srcs/sim_1/new/TOP_ASCENSOR_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_TOP_ASCENSOR'

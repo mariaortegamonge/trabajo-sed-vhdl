@@ -1,0 +1,14 @@
+0.7
+2020.2
+Jul 28 2021
+13:32:51
+C:/Users/jvill/top_ascensor/top_ascensor.srcs/sim_1/new/TOP_ASCENSOR_tb.vhd,1638042186,vhdl,,,,cfg_tb_top_ascensor;tb_top_ascensor,,,,,,,,
+C:/Users/jvill/top_ascensor/top_ascensor.srcs/sources_1/new/top_ascensor.vhd,1638041726,vhdl,,,,top_ascensor,,,,,,,,
+E:/ascensor-sed/estado_piso/estado_piso.srcs/sources_1/new/control_ascensor.vhd,1638036188,vhdl,,,,control_ascensor,,,,,,,,
+E:/ascensor-sed/estado_piso/estado_piso.srcs/sources_1/new/decodificador_piso.vhd,1638028620,vhdl,,,,decodificador_piso,,,,,,,,
+E:/ascensor-sed/estado_piso/estado_piso.srcs/sources_1/new/estado_piso.vhd,1638036236,vhdl,,,,estado_piso,,,,,,,,
+E:/ascensor-sed/estado_piso/estado_piso.srcs/sources_1/new/fsm_ascensor.vhd,1638034322,vhdl,,,,fsm_ascensor,,,,,,,,
+F:/clk_divider.vhd,1638036938,vhdl,,,,clk_divider,,,,,,,,
+F:/control_puerta.vhd,1638032578,vhdl,,,,control_puerta,,,,,,,,
+F:/display.vhd,1638036840,vhdl,,,,display,,,,,,,,
+F:/estado_puerta.vhd,1638040090,vhdl,,,,estado_puerta,,,,,,,,

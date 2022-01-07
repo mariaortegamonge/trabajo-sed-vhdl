@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Sat Nov 27 20:48:06 2021
+# Process ID: 19824
+# Current directory: F:/LABSED/top_ascensor
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8812 F:\LABSED\top_ascensor\top_ascensor.xpr
+# Log file: F:/LABSED/top_ascensor/vivado.log
+# Journal file: F:/LABSED/top_ascensor\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project F:/LABSED/top_ascensor/top_ascensor.xpr
+update_compile_order -fileset sources_1

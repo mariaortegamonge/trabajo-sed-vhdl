@@ -1,0 +1,15 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"F:/clk_divider.vhd" \
+"E:/ascensor-sed/estado_piso/estado_piso.srcs/sources_1/new/control_ascensor.vhd" \
+"F:/control_puerta.vhd" \
+"E:/ascensor-sed/estado_piso/estado_piso.srcs/sources_1/new/decodificador_piso.vhd" \
+"F:/display.vhd" \
+"E:/ascensor-sed/estado_piso/estado_piso.srcs/sources_1/new/estado_piso.vhd" \
+"F:/estado_puerta.vhd" \
+"E:/ascensor-sed/estado_piso/estado_piso.srcs/sources_1/new/fsm_ascensor.vhd" \
+"../../../../top_ascensor.srcs/sources_1/new/top_ascensor.vhd" \
+"../../../../top_ascensor.srcs/sim_1/new/TOP_ASCENSOR_tb.vhd" \
+
+# Do not sort compile order
+nosort

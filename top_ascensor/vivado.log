@@ -1,0 +1,32 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Sat Nov 27 20:48:06 2021
+# Process ID: 19824
+# Current directory: F:/LABSED/top_ascensor
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8812 F:\LABSED\top_ascensor\top_ascensor.xpr
+# Log file: F:/LABSED/top_ascensor/vivado.log
+# Journal file: F:/LABSED/top_ascensor\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project F:/LABSED/top_ascensor/top_ascensor.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Users/jvill/top_ascensor' since last save.
+WARNING: [filemgmt 56-2] Default IP Output Path : Could not find the directory 'F:/LABSED/top_ascensor/top_ascensor.gen/sources_1', nor could it be found using path 'C:/Users/jvill/top_ascensor/top_ascensor.gen/sources_1'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'E:/ascensor-sed/estado_piso/estado_piso.srcs/sources_1/new/control_ascensor.vhd'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'E:/ascensor-sed/estado_piso/estado_piso.srcs/sources_1/new/decodificador_piso.vhd'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'E:/ascensor-sed/estado_piso/estado_piso.srcs/sources_1/new/estado_piso.vhd'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'E:/ascensor-sed/estado_piso/estado_piso.srcs/sources_1/new/fsm_ascensor.vhd'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'E:/clk_divider.vhd'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'E:/display.vhd'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'E:/estado_puerta.vhd'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'E:/control_puerta.vhd'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2021.1/data/ip'.
+open_project: Time (s): cpu = 00:00:21 ; elapsed = 00:00:10 . Memory (MB): peak = 1121.863 ; gain = 0.000
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Sat Nov 27 20:49:07 2021...
