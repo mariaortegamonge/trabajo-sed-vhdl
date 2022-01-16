@@ -6,7 +6,10 @@
 
 6/1/2022 subida una primera versión del trabajo entero. Aun no funciona.
 
-7/1/2022 subidos los codigos de los bloques que tenemos
+7/1/2022 subidos los codigos de los bloques que tenemos.
 
 10/1/2022 subimos últimos bloques y FSM.
-14/01/2022 subimos la versión de TOP definitiva llamada TOP_ASCENSOR1
+
+14/01/2022 subimos la versión de TOP definitiva llamada TOP_ASCENSOR1.
+
+16/01/2022 subido video demostración con el funcionamiento completo.
